@@ -1,0 +1,57 @@
+@model BiletModel
+@{
+    ViewData["Title"] = "BiletDetails";
+}
+
+<h1 class="display-4"> Szczegłówy biletu</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NameBilet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NameBilet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DescriptionBilet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DescriptionBilet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumberOfSeats)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfSeats)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Personality)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Personality)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>                 
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Participation">Wróć do swojej listy biletów</a>
+</div>

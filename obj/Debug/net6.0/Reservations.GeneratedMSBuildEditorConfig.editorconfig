@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Reservations
+build_property.RootNamespace = Reservations
+build_property.ProjectDir = D:\Projekt\Reservations_AP\Reservations\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projekt\Reservations_AP\Reservations
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/BiletDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaWxldERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/CreateBilet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVCaWxldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/CreateEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/DeleteBilet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVCaWxldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/DeleteEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/DetailsEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/EditBilet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0QmlsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/EditEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0RXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/Participation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWNpcGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Home/WarningReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXYXJuaW5nUmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projekt/Reservations_AP/Reservations/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h6lk3kkfyn

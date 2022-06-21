@@ -1,0 +1,32 @@
+﻿@model ReservationModel
+
+@{
+    ViewData["Title"] = "DeleteEvent";
+}
+
+<h1 class="display-4">Usuń wydarzenie</h1>
+
+<h3>Czy na pewno chcesz usunąć wydarzenie?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DescriptionEvent)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DescriptionEvent)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteEvent">
+        <input type="submit" value="Usuń" /> 
+        <a asp-action="Index">Wróć do listy wydarzeń</a>
+    </form>
+</div>
+

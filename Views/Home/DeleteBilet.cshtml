@@ -1,0 +1,63 @@
+﻿@model BiletModel
+
+@{
+    ViewData["Title"] = "DeleteBilet";
+    
+}
+
+<h1 class="display-4">Zrezygnuj z wydarzenia</h1>
+
+<h3>Czy na pewno chcesz zrezygnować z wydarzenia?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NameBilet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NameBilet)
+        </dd>
+         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DescriptionBilet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DescriptionBilet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumberOfSeats)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfSeats)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Personality)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Personality)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>                 
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteBilet">
+        <input type="submit" value="Zrezygnuj" /> 
+        <a asp-action="Participation">Wróć do listy zarezerwowanych biletów</a>
+    </form>
+</div>
+
