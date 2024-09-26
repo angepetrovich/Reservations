@@ -1,5 +1,5 @@
 Aplikacja rezerwacja miejsc na wydarzenie.
-![widok aplikacji](obraz1.jpg)
+![widok aplikacji](Obraz1.jpg)
 
 
 
@@ -18,3 +18,4 @@ zwykłego użytkownika, dlatego wszystkie przyciski modyfikowania wydarzenia te�
 dla zwykłego użytkownika. 
 
 2. Schemat bazy danych.
+![schemat](Obraz2.jpg)
