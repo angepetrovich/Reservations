@@ -1,4 +1,6 @@
 Aplikacja rezerwacja miejsc na wydarzenie.
+![widok aplikacji](obraz1.jpg)
+
 
 
 1. Opis projektu.
