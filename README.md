@@ -18,4 +18,4 @@ zwykłego użytkownika, dlatego wszystkie przyciski modyfikowania wydarzenia te�
 dla zwykłego użytkownika. 
 
 2. Schemat bazy danych.
-![schemat](Obraz2.jpg)
+![schemat](Obraz2.png)
